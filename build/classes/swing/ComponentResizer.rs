@@ -1,0 +1,1 @@
+newchatting.ComponentResizer
